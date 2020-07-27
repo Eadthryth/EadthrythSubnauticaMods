@@ -1,0 +1,11 @@
+{
+  "Id": "FabricatorColor",
+  "DisplayName": "FabricatorColor",
+  "Author": "Eadthryth",
+  "Version": "1.0",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "FabricatorColor.dll",
+  "EntryMethod": "FabricatorColor.Main.Patch",
+  "Config": {}
+}
